@@ -81,7 +81,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Recursos\Audiowide-Regular.ttf" />
     <None Include="Recursos\LoginImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Audiowide.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
