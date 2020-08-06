@@ -6,11 +6,8 @@ namespace _01_FormularioLogin
     public partial class frmLogin : Form
     {
 
-<<<<<<< HEAD
-        //Comentario Facu
-=======
+
         // Constructor de la Clase frmLogin
->>>>>>> bec520d88417281df532d2377385dd09ddf77cd9
         public frmLogin()
         {
 
