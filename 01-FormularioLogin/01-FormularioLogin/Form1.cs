@@ -2,11 +2,11 @@
 using System.Windows.Forms;
 
 namespace _01_FormularioLogin
-
 {
     public partial class frmLogin : Form
     {
-        // constructor de la clase
+
+        // Constructor de la Clase frmLogin
         public frmLogin()
         {
             InitializeComponent();
