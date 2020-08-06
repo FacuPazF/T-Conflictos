@@ -6,14 +6,17 @@ namespace _01_FormularioLogin
     public partial class frmLogin : Form
     {
 
+<<<<<<< HEAD
         //Comentario Facu
+=======
+        // Constructor de la Clase frmLogin
+>>>>>>> bec520d88417281df532d2377385dd09ddf77cd9
         public frmLogin()
         {
 
             InitializeComponent();
         }
 
-        // Método para el evento del botón Ingresar
         private void btnIngresar_Click(object sender, EventArgs e)
         {
             string usuario = "admin";
