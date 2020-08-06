@@ -10,7 +10,6 @@ namespace _01_FormularioLogin
             InitializeComponent();
         }
 
-        // Método para el evento del botón Ingresar
         private void btnIngresar_Click(object sender, EventArgs e)
         {
             string usuario = "admin";
