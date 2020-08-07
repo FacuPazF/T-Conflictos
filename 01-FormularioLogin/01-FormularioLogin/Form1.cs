@@ -2,16 +2,18 @@
 using System.Windows.Forms;
 
 namespace _01_FormularioLogin
-
 {
     public partial class frmLogin : Form
     {
-        // constructor de la clase
+
+
+        // Constructor de la Clase frmLogin
         public frmLogin()
         {
+
             InitializeComponent();
         }
-
+        // Código del boton ingresar
         private void btnIngresar_Click(object sender, EventArgs e)
         // metodo boton ingresar 
         {
