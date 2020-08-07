@@ -13,6 +13,7 @@ namespace _01_FormularioLogin
         }
 
         private void btnIngresar_Click(object sender, EventArgs e)
+        // metodo boton ingresar 
         {
             string usuario = "admin";
             string clave = "admin";
